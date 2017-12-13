@@ -1,8 +1,8 @@
 #MAIN LENDING DOCUMANTATION
 =====================
-В проекті використано framework BOOTSTRUP.
+The work based on framework BOOTSTRUP.
 
-## Used fonts:
+Used fonts:
 -----------------
 'Open Sans' та 'Dosis'
 
@@ -11,7 +11,7 @@
  2. Et-line
 
 ### Default styles
-
+'''scss
 .bg-grey{
 	background-color: #f8f8f8;
 }
@@ -231,13 +231,13 @@ blockquote p{
 		margin-bottom: 25px;
 	}
 }
+'''
 
-
-#Загальна документація по лендінгу
+Загальна документація по лендінгу
 =====================
 В проекті використано framework BOOTSTRUP.
 
-##Використані шрифти:
+Використані шрифти:
 -----------------
 'Open Sans' та 'Dosis'
 
@@ -248,7 +248,7 @@ blockquote p{
 
 
 ### Застосовано такі стилі за умовчанням
-
+'''scss
 .bg-grey{
 	background-color: #f8f8f8;
 }
@@ -464,5 +464,5 @@ blockquote p{
 		margin-bottom: 25px;
 	}
 }
-
+'''
 
