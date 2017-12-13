@@ -21,6 +21,7 @@ Used fonts:
 .text-white{
 	color: #fff !important;
 }
+'''
 
 ### Default components
 
