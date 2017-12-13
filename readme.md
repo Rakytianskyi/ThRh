@@ -11,7 +11,7 @@ Used fonts:
  2. Et-line
 
 ### Default styles
-'''css
+```css
 .bg-grey{
 	background-color: #f8f8f8;
 }
@@ -21,10 +21,10 @@ Used fonts:
 .text-white{
 	color: #fff !important;
 }
-'''
+```
 
 ### Default components
-
+```css
 /* === SECTIONS === */
 .default-section{
 	padding: 140px 0;
@@ -232,7 +232,7 @@ blockquote p{
 		margin-bottom: 25px;
 	}
 }
-'''
+```
 
 Загальна документація по лендінгу
 =====================
@@ -249,7 +249,7 @@ blockquote p{
 
 
 ### Застосовано такі стилі за умовчанням
-'''scss
+```css
 .bg-grey{
 	background-color: #f8f8f8;
 }
@@ -259,9 +259,9 @@ blockquote p{
 .text-white{
 	color: #fff !important;
 }
-
+```
 ### Застосована компоненти за умовчанням
-
+```css
 .default-section{
 	padding: 140px 0;
 }
@@ -465,5 +465,5 @@ blockquote p{
 		margin-bottom: 25px;
 	}
 }
-'''
+```
 
