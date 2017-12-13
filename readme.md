@@ -1,4 +1,4 @@
-#MAIN LENDING DOCUMANTATION
+#MAIN LENDING DOCUMENTATION
 =====================
 The work based on framework BOOTSTRUP.
 
@@ -11,7 +11,7 @@ Used fonts:
  2. Et-line
 
 ### Default styles
-'''scss
+'''css
 .bg-grey{
 	background-color: #f8f8f8;
 }
